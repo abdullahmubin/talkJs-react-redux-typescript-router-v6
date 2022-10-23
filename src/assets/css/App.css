@@ -1,0 +1,68 @@
+.homepage h4{
+  text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.log-in-box{
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.log-in-box h3{
+  margin-top: 10px;
+  text-align: center;
+}
+.gallery-shadow
+{
+    position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.gallery-shadow:before, .gallery-shadow:after
+{
+  content:"";
+    position:absolute;
+    z-index:-1;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    top:10px;
+    bottom:10px;
+    left:0;
+    right:0;
+    -moz-border-radius:100px / 10px;
+    border-radius:100px / 10px;
+}
+.gallery-shadow:after
+{
+  right:10px;
+    left:auto;
+    -webkit-transform:skew(8deg) rotate(3deg);
+       -moz-transform:skew(8deg) rotate(3deg);
+        -ms-transform:skew(8deg) rotate(3deg);
+         -o-transform:skew(8deg) rotate(3deg);
+            transform:skew(8deg) rotate(3deg);
+}
+
+
+.input-field-wit-error {
+  margin-bottom: 10px;
+}
+.error-label {
+  float: left;
+}
+
+
+.gallery-image {
+  width: 100%;
+}
+
+
+.error-label {
+  color: red !important;
+  display: contents;
+}
+.error-border {
+  border: 1px solid red
+}

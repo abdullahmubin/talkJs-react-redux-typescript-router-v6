@@ -1,0 +1,93 @@
+{
+    "necessaryColor": "Super hero squad",
+    "title": "Jonney Anderson",
+    "subtitle": "Web Designer",
+    "profilePic": "Super tower",
+    "master": true,
+    "reference": [
+        {
+            "name": "Molecule Man",
+            "designation": 29,
+            "mail": "Dan Jukes",
+            "Mobile": 29,
+            "Occupation": "Dan Jukes"
+        },
+        {
+            "name": "Molecule Man",
+            "designation": 29,
+            "mail": "Dan Jukes",
+            "Mobile": 29,
+            "Occupation": "Dan Jukes"
+        }
+    ],
+    "hobbies": [
+        {
+            "name": "Molecule Man",
+            "image": 29,
+            "defaultImg": "Dan Jukes"
+        },
+        {
+            "name": "Molecule Man",
+            "image": 29,
+            "defaultImg": "Dan Jukes"
+        }
+    ],
+    "education": [
+        {
+            "timeline": "2013-2015",
+            "degree": "Master Degree",
+            "school": "Cambridg University"
+        },
+        {
+            "timeline": "2013-2015",
+            "degree": "Master Degree",
+            "school": "Cambridg University"
+        }
+    ],
+    "profileTxt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan purus enim, a vestibulum est tristique sit amet. Suspendisse nibh nisl, imperdiet sit amet mi vitae, elementum elementum nibh. Vivamus vitae eros malesuada, convallis dolor malesuada, lobortis ex. Sed cursus augue risus, ac semper est consectetur vitae. Praesent consequat metus sit amet rhoncus luctus.",
+    "workExperience": [
+        {
+            "designation": "Junior Software Developer",
+            "compancy": "Microsoft / United States",
+            "timeline": "2008-2011",
+            "taskList": [
+                {
+                    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "description": 2016
+                },
+                {
+                    "title": "Sorem dolor sit amet, consectetur.",
+                    "description": 2016
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Photoshop",
+            "percentage": "60"
+        },
+        {
+            "name": "PHP",
+            "percentage": "60"
+        },
+        {
+            "name": "Web Design",
+            "percentage": "60"
+        },
+        {
+            "name": "Web Development",
+            "percentage": "60"
+        }
+    ],
+    "contact": {
+        "firtMobile": "123123123",
+        "SecondMobile": "123123123",
+        "email": "Dan Jukes",
+        "website": 29,
+        "Linkedin": "Dan Jukes",
+        "git": "Dan Jukes",
+        "facebook": "Dan Jukes",
+        "address": "Dan Jukes"
+    }
+}
