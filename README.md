@@ -1,5 +1,8 @@
 # NOTE:
-Basically its part of my project, so it has unnecesssary redux code. :( otherwise it workable.
+someone told me to create it from facebook group (talk.js)
+My Details: 
+Abdullah al Mubin
+01686578649 (+880)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
